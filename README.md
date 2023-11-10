@@ -1,0 +1,2 @@
+# Sales-Chatbot
+ The Sales Chatbot is an AI-driven virtual assistant designed to streamline and enhance the shopping experience. With its intuitive interface, this chatbot empowers users to effortlessly explore, inquire about, and purchase products. Seamlessly integrated with a diverse product database, it provides comprehensive details about available items, assists in adding desired products to the cart, and efficiently guides users through the purchasing process.
